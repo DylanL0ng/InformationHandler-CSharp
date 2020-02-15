@@ -1,0 +1,11 @@
+C:\Users\Dylan\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\InformationHolder.exe
+C:\Users\Dylan\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\InformationHolder.deps.json
+C:\Users\Dylan\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\InformationHolder.runtimeconfig.json
+C:\Users\Dylan\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\InformationHolder.runtimeconfig.dev.json
+C:\Users\Dylan\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\InformationHolder.dll
+C:\Users\Dylan\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\InformationHolder.pdb
+C:\Users\Dylan\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\InformationHolder.AssemblyInfoInputs.cache
+C:\Users\Dylan\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\InformationHolder.AssemblyInfo.cs
+C:\Users\Dylan\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\InformationHolder.dll
+C:\Users\Dylan\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\InformationHolder.pdb
+C:\Users\Dylan\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\InformationHolder.csprojAssemblyReference.cache
